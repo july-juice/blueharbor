@@ -1,0 +1,301 @@
+shipment_id,origin_country,destination_country,declared_value,weight_kg,incoterm,shipment_date,product_name,product_category,vat_rate,customs_duty_rate,invoice_id,invoice_value,vat_amount,customs_amount,tax_flag,invoice_date
+282,"United States","United Kingdom",6313.51,95.35,DDP,2025-10-21,"Clothing - Jacket",Apparel,0.200,0.050,282,7891.89,1262.70,315.68,OK,2024-01-14
+65,China,"United States",2196.39,962.91,DDP,2025-10-18,"Furniture - Chair",Home,0.000,0.080,65,2372.10,0.00,175.71,OK,2024-10-21
+77,"United States",India,1901.93,690.75,CIF,2025-10-16,"Clothing - Shoes",Apparel,0.180,0.120,77,2472.51,342.35,228.23,OK,2025-07-04
+38,China,Netherlands,9705.46,927.10,FOB,2025-10-14,"Electronics - Smartphone",Electronics,0.210,0.050,38,12228.88,2038.15,485.27,OK,2024-12-02
+27,Germany,Netherlands,9495.06,173.48,EXW,2025-10-14,"Food - Chocolate",Groceries,0.210,0.050,27,11963.77,1993.96,474.75,OK,2023-11-15
+271,China,France,2741.96,648.71,DDP,2025-10-06,"Electronics - Laptop",Electronics,0.200,0.070,271,3482.29,548.39,191.94,OK,2024-12-24
+123,India,Germany,1992.04,182.08,CIF,2025-10-02,"Electronics - Laptop",Electronics,0.190,0.060,123,2490.05,378.49,119.52,OK,2024-04-02
+66,China,"United States",3784.03,788.56,EXW,2025-09-29,"Toys - Board Game",Toys,0.000,0.080,66,4086.75,0.00,302.72,OK,2024-05-09
+43,China,Japan,8587.75,77.84,CIF,2025-09-24,"Electronics - Laptop",Electronics,0.100,0.040,43,9790.04,858.78,343.51,OK,2024-11-14
+14,"United Kingdom",Germany,2504.34,943.48,DDP,2025-09-23,"Electronics - Laptop",Electronics,0.190,0.060,14,3130.42,475.82,150.26,OK,2025-03-09
+143,"United Kingdom",France,8708.26,283.48,EXW,2025-09-22,"Clothing - Jacket",Apparel,0.200,0.070,143,11059.49,1741.65,609.58,OK,2025-08-01
+218,France,India,7585.15,229.36,FOB,2025-09-12,"Furniture - Chair",Home,0.180,0.120,218,9860.70,1365.33,910.22,OK,2025-10-24
+22,Germany,Japan,8769.93,305.46,FOB,2025-09-11,"Electronics - Laptop",Electronics,0.100,0.040,22,9997.72,876.99,350.8,OK,2025-02-05
+264,"United States",India,9750.37,501.24,EXW,2025-09-11,"Furniture - Table",Home,0.180,0.120,264,12675.48,1755.07,1170.04,OK,2025-01-16
+2,France,Japan,801.94,102.76,FOB,2025-09-10,"Toys - Board Game",Toys,0.100,0.040,2,914.21,80.19,32.08,MISSING_VAT,2023-11-26
+244,China,Netherlands,8804.11,559.00,CIF,2025-09-06,"Food - Chocolate",Groceries,0.210,0.050,244,11093.18,1848.86,440.21,OK,2024-09-21
+261,China,Germany,5396.14,989.23,EXW,2025-09-03,"Furniture - Chair",Home,0.190,0.060,261,6745.18,1025.27,323.77,MISSING_VAT,2024-01-30
+275,"United States",Japan,9178.65,126.58,DDP,2025-08-31,"Toys - Board Game",Toys,0.100,0.040,275,10463.66,917.86,367.15,OK,2023-12-21
+9,India,Netherlands,935.33,235.62,DDP,2025-08-28,"Electronics - Laptop",Electronics,0.210,0.050,9,1178.52,196.42,46.77,OK,2025-04-15
+253,France,China,6169.02,26.27,FOB,2025-08-27,"Food - Chocolate",Groceries,0.130,0.100,253,7587.89,801.97,616.9,OK,2024-03-26
+90,China,India,1297.50,434.33,EXW,2025-08-24,"Electronics - Smartphone",Electronics,0.180,0.120,90,1686.75,233.55,155.7,OK,2024-12-21
+272,"United Kingdom",Japan,6248.40,682.27,DDP,2025-08-24,"Electronics - Smartphone",Electronics,0.100,0.040,272,7123.18,624.84,249.94,OK,2024-01-28
+215,Netherlands,Japan,5947.30,712.40,EXW,2025-08-20,"Toys - Board Game",Toys,0.100,0.040,215,6779.92,594.73,237.89,OK,2025-02-04
+117,Germany,Netherlands,1474.58,22.14,DDP,2025-08-15,"Food - Chocolate",Groceries,0.210,0.050,117,1857.97,309.66,73.73,OK,2024-02-26
+37,Japan,India,8807.62,84.63,CIF,2025-08-14,"Clothing - Shoes",Apparel,0.180,0.120,37,11449.90,1585.37,1056.91,OK,2023-12-03
+200,China,Germany,3840.64,582.14,FOB,2025-08-13,"Furniture - Chair",Home,0.190,0.060,200,4800.80,729.72,230.44,OK,2024-02-05
+160,"United Kingdom",Netherlands,4839.94,309.10,EXW,2025-08-10,"Furniture - Chair",Home,0.210,0.050,160,6098.33,1016.39,242,OK,2024-04-27
+124,Germany,China,4779.79,597.87,DDP,2025-08-10,"Toys - Board Game",Toys,0.130,0.100,124,5879.14,621.37,477.98,OK,2024-09-27
+299,Japan,India,1355.47,399.31,EXW,2025-08-08,"Electronics - Smartphone",Electronics,0.180,0.120,299,1762.11,243.98,162.66,OK,2023-12-28
+203,Japan,China,3096.07,764.79,DDP,2025-08-08,"Clothing - Jacket",Apparel,0.130,0.100,203,3808.17,402.49,309.61,OK,2025-04-01
+292,"United Kingdom",Germany,1193.24,69.31,EXW,2025-08-06,"Food - Chocolate",Groceries,0.190,0.060,292,1491.55,226.72,71.59,OK,2025-08-06
+132,Japan,"United States",7749.54,183.44,EXW,2025-08-04,"Electronics - Smartphone",Electronics,0.000,0.080,132,8369.50,0.00,619.96,OK,2025-07-03
+122,Japan,"United States",6291.49,742.69,FOB,2025-08-03,"Electronics - Smartphone",Electronics,0.000,0.080,122,6794.81,0.00,503.32,OK,2025-09-12
+238,Netherlands,"United Kingdom",6173.84,162.71,FOB,2025-07-26,"Clothing - Jacket",Apparel,0.200,0.050,238,7717.30,1234.77,308.69,OK,2025-08-24
+149,France,"United Kingdom",1447.26,911.34,CIF,2025-07-25,"Food - Chocolate",Groceries,0.200,0.050,149,1809.07,289.45,72.36,OK,2025-01-13
+294,Netherlands,"United States",9766.05,139.46,DDP,2025-07-20,"Furniture - Table",Home,0.000,0.080,294,10547.33,0.00,781.28,OK,2025-10-15
+52,India,Netherlands,2434.17,637.90,DDP,2025-07-19,"Furniture - Table",Home,0.210,0.050,52,3067.06,511.18,121.71,OK,2025-01-23
+125,China,France,7216.08,705.96,EXW,2025-07-16,"Furniture - Chair",Home,0.200,0.070,125,9164.43,1443.22,505.13,OK,2025-10-04
+179,Netherlands,China,5672.43,978.06,DDP,2025-07-15,"Furniture - Table",Home,0.130,0.100,179,6977.09,737.42,567.24,OK,2025-06-21
+227,Netherlands,Japan,5262.99,958.15,EXW,2025-07-08,"Food - Chocolate",Groceries,0.100,0.040,227,5999.81,526.30,210.52,OK,2025-02-17
+295,France,Germany,4931.49,274.80,FOB,2025-07-07,"Clothing - Shoes",Apparel,0.190,0.060,295,6164.36,936.98,295.89,OK,2024-08-11
+169,France,India,1837.19,966.84,EXW,2025-07-06,"Electronics - Laptop",Electronics,0.180,0.120,169,2388.34,330.69,220.46,MISSING_VAT,2024-04-25
+78,"United Kingdom",France,8139.04,698.95,EXW,2025-07-05,"Clothing - Jacket",Apparel,0.200,0.070,78,10336.58,1627.81,569.73,OK,2025-08-05
+236,Germany,France,9502.85,491.41,FOB,2025-07-04,"Furniture - Table",Home,0.200,0.070,236,12068.62,1900.57,665.2,OK,2024-06-26
+42,China,Netherlands,1043.07,588.34,FOB,2025-06-29,"Furniture - Table",Home,0.210,0.050,42,1314.26,219.04,52.15,OK,2024-01-12
+221,Germany,Japan,7722.05,658.95,FOB,2025-06-27,"Clothing - Jacket",Apparel,0.100,0.040,221,8803.13,772.20,308.88,OK,2025-10-01
+191,"United Kingdom",Netherlands,5157.55,910.60,CIF,2025-06-23,"Electronics - Laptop",Electronics,0.210,0.050,191,6498.52,1083.09,257.88,OK,2025-08-07
+247,"United Kingdom",China,5269.07,243.42,CIF,2025-06-21,"Toys - Board Game",Toys,0.130,0.100,247,6480.96,684.98,526.91,OK,2025-02-24
+231,Netherlands,China,1397.81,681.60,DDP,2025-06-14,"Furniture - Table",Home,0.130,0.100,231,1719.31,181.72,139.78,OK,2024-03-31
+137,China,Netherlands,4425.85,195.71,DDP,2025-06-12,"Food - Chocolate",Groceries,0.210,0.050,137,5576.57,929.43,221.29,OK,2024-09-04
+111,"United States",Japan,4542.29,748.48,DDP,2025-06-11,"Furniture - Table",Home,0.100,0.040,111,5178.21,454.23,181.69,OK,2023-12-01
+139,Japan,India,1653.55,973.42,FOB,2025-06-10,"Food - Chocolate",Groceries,0.180,0.120,139,2149.62,297.64,198.43,OK,2024-08-07
+250,"United States",India,9105.65,28.81,FOB,2025-06-09,"Electronics - Smartphone",Electronics,0.180,0.120,250,11837.35,1639.02,1092.68,OK,2024-04-01
+201,Germany,Netherlands,2630.33,117.14,DDP,2025-06-09,"Food - Chocolate",Groceries,0.210,0.050,201,3314.22,552.37,131.52,MISSING_VAT,2025-05-20
+181,France,Netherlands,6596.19,601.17,CIF,2025-06-07,"Clothing - Shoes",Apparel,0.210,0.050,181,8311.20,1385.20,329.81,OK,2024-03-19
+31,India,China,8666.54,80.15,FOB,2025-06-03,"Electronics - Smartphone",Electronics,0.130,0.100,31,10659.84,1126.65,866.65,OK,2024-06-02
+103,"United States",Netherlands,4637.13,736.46,DDP,2025-05-30,"Clothing - Jacket",Apparel,0.210,0.050,103,5842.79,973.80,231.86,OK,2023-11-22
+206,"United Kingdom",India,1995.39,318.52,DDP,2025-05-27,"Furniture - Table",Home,0.180,0.120,206,2594.01,359.17,239.45,OK,2025-03-14
+156,India,Japan,5876.32,794.59,FOB,2025-05-26,"Toys - Board Game",Toys,0.100,0.040,156,6699.00,587.63,235.05,OK,2024-03-01
+286,France,Japan,3389.18,170.35,FOB,2025-05-25,"Clothing - Jacket",Apparel,0.100,0.040,286,3863.67,338.92,135.57,OK,2023-11-21
+212,Netherlands,China,5225.16,436.35,FOB,2025-05-24,"Electronics - Smartphone",Electronics,0.130,0.100,212,6426.95,679.27,522.52,OK,2024-11-12
+110,France,Germany,4341.81,250.87,DDP,2025-05-17,"Clothing - Shoes",Apparel,0.190,0.060,110,5427.26,824.94,260.51,OK,2024-06-28
+186,Germany,China,8004.85,245.55,DDP,2025-05-11,"Furniture - Table",Home,0.130,0.100,186,9845.96,1040.63,800.48,MISSING_VAT,2024-12-05
+3,China,Japan,7302.19,704.31,EXW,2025-05-10,"Clothing - Shoes",Apparel,0.100,0.040,3,8324.50,730.22,292.09,OK,2025-04-17
+47,Netherlands,"United Kingdom",588.50,624.95,CIF,2025-05-08,"Electronics - Laptop",Electronics,0.200,0.050,47,735.62,117.70,29.42,MISSING_VAT,2024-06-10
+216,Japan,China,698.14,331.52,EXW,2025-05-07,"Toys - Board Game",Toys,0.130,0.100,216,858.71,90.76,69.81,OK,2025-10-14
+207,France,China,1995.39,621.66,CIF,2025-05-05,"Clothing - Jacket",Apparel,0.130,0.100,207,2454.33,259.40,199.54,OK,2025-08-07
+10,France,"United Kingdom",8731.59,386.32,EXW,2025-05-05,"Clothing - Shoes",Apparel,0.200,0.050,10,10914.49,1746.32,436.58,OK,2023-12-21
+24,Netherlands,India,1562.74,369.35,DDP,2025-05-04,"Electronics - Smartphone",Electronics,0.180,0.120,24,2031.56,281.29,187.53,OK,2025-01-06
+210,Japan,China,4255.00,603.33,CIF,2025-05-02,"Clothing - Shoes",Apparel,0.130,0.100,210,5233.65,553.15,425.5,OK,2025-02-25
+167,Germany,"United Kingdom",5543.10,914.35,FOB,2025-04-26,"Furniture - Table",Home,0.200,0.050,167,6928.88,1108.62,277.16,OK,2025-08-19
+34,"United Kingdom",Germany,4405.47,865.20,CIF,2025-04-26,"Toys - Board Game",Toys,0.190,0.060,34,5506.84,837.04,264.33,OK,2023-11-28
+69,Netherlands,"United States",7337.67,307.32,DDP,2025-04-24,"Electronics - Laptop",Electronics,0.000,0.080,69,7924.68,0.00,587.01,OK,2024-10-13
+120,Germany,France,1309.22,255.71,EXW,2025-04-21,"Furniture - Chair",Home,0.200,0.070,120,1662.71,261.84,91.65,OK,2024-03-16
+293,"United Kingdom",India,2438.22,610.59,DDP,2025-04-16,"Food - Chocolate",Groceries,0.180,0.120,293,3169.69,438.88,292.59,OK,2024-06-26
+101,China,Germany,6784.45,78.27,DDP,2025-04-15,"Toys - Board Game",Toys,0.190,0.060,101,8480.57,1289.05,407.07,OK,2023-11-08
+243,Germany,"United Kingdom",8111.96,147.01,DDP,2025-04-12,"Clothing - Shoes",Apparel,0.200,0.050,243,10139.95,1622.39,405.6,OK,2025-06-11
+102,China,"United Kingdom",8312.14,114.48,DDP,2025-04-10,"Toys - Board Game",Toys,0.200,0.050,102,10390.18,1662.43,415.61,OK,2024-06-17
+226,"United Kingdom",India,4772.47,811.72,FOB,2025-04-03,"Electronics - Smartphone",Electronics,0.180,0.120,226,6204.21,859.04,572.7,OK,2024-09-12
+115,France,"United Kingdom",3314.34,367.27,DDP,2025-04-03,"Clothing - Shoes",Apparel,0.200,0.050,115,4142.93,662.87,165.72,OK,2024-09-29
+39,Germany,India,5072.90,866.00,CIF,2025-04-03,"Food - Chocolate",Groceries,0.180,0.120,39,6594.77,913.12,608.75,OK,2025-09-26
+108,China,Japan,1313.32,722.87,EXW,2025-03-29,"Clothing - Shoes",Apparel,0.100,0.040,108,1497.18,131.33,52.53,OK,2024-07-19
+116,China,Netherlands,3105.96,974.55,DDP,2025-03-28,"Clothing - Jacket",Apparel,0.210,0.050,116,3913.51,652.25,155.3,OK,2025-07-05
+185,Germany,France,8085.88,118.83,CIF,2025-03-28,"Furniture - Chair",Home,0.200,0.070,185,10269.07,1617.18,566.01,OK,2025-08-02
+141,"United States",China,5234.57,719.44,DDP,2025-03-22,"Clothing - Jacket",Apparel,0.130,0.100,141,6438.52,680.49,523.46,OK,2025-06-03
+266,"United Kingdom",Japan,5682.01,328.00,CIF,2025-03-20,"Clothing - Jacket",Apparel,0.100,0.040,266,6477.49,568.20,227.28,OK,2025-09-04
+166,Germany,China,3603.83,421.35,FOB,2025-03-18,"Furniture - Chair",Home,0.130,0.100,166,4432.71,468.50,360.38,OK,2025-08-12
+106,"United Kingdom",Germany,5195.91,331.76,EXW,2025-03-17,"Electronics - Smartphone",Electronics,0.190,0.060,106,6494.88,987.22,311.75,OK,2023-12-08
+157,Germany,China,6387.25,248.42,FOB,2025-03-17,"Toys - Board Game",Toys,0.130,0.100,157,7856.31,830.34,638.72,MISSING_VAT,2024-12-15
+254,Germany,"United States",514.86,359.29,EXW,2025-03-12,"Toys - Board Game",Toys,0.000,0.080,254,556.05,0.00,41.19,OK,2024-03-11
+121,India,"United Kingdom",4779.89,448.29,EXW,2025-03-11,"Toys - Board Game",Toys,0.200,0.050,121,5974.86,955.98,238.99,OK,2024-01-03
+234,Japan,"United States",6613.19,335.19,FOB,2025-03-11,"Toys - Board Game",Toys,0.000,0.080,234,7142.25,0.00,529.06,OK,2025-09-09
+172,France,Netherlands,4979.03,623.35,DDP,2025-03-05,"Clothing - Shoes",Apparel,0.210,0.050,172,6273.58,1045.60,248.95,OK,2025-01-20
+164,India,Netherlands,6398.47,680.99,FOB,2025-03-03,"Clothing - Shoes",Apparel,0.210,0.050,164,8062.07,1343.68,319.92,OK,2025-04-19
+8,France,Japan,8379.34,622.33,DDP,2025-03-02,"Furniture - Chair",Home,0.100,0.040,8,9552.44,837.93,335.17,MISSING_VAT,2024-03-03
+229,China,France,9914.37,528.83,FOB,2025-03-02,"Food - Chocolate",Groceries,0.200,0.070,229,12591.25,1982.87,694.01,OK,2023-11-25
+60,China,France,7932.67,417.60,FOB,2025-03-01,"Furniture - Table",Home,0.200,0.070,60,10074.49,1586.53,555.29,OK,2024-04-14
+126,France,Netherlands,9277.15,789.95,FOB,2025-02-28,"Clothing - Shoes",Apparel,0.210,0.050,126,11689.21,1948.20,463.86,OK,2025-09-25
+1,France,China,2826.47,148.14,CIF,2025-02-26,"Furniture - Chair",Home,0.130,0.100,1,3476.56,367.44,282.65,OK,2023-12-04
+29,"United States",Japan,1649.54,232.45,DDP,2025-02-25,"Food - Chocolate",Groceries,0.100,0.040,29,1880.47,164.95,65.98,MISSING_VAT,2025-03-24
+73,"United States",India,6918.46,516.06,FOB,2025-02-25,"Food - Chocolate",Groceries,0.180,0.120,73,8994.00,1245.32,830.22,OK,2024-04-17
+91,Germany,China,4101.49,219.54,DDP,2025-02-24,"Furniture - Chair",Home,0.130,0.100,91,5044.83,533.19,410.15,OK,2024-04-26
+161,"United States",China,4122.96,365.37,DDP,2025-02-23,"Clothing - Shoes",Apparel,0.130,0.100,161,5071.24,535.98,412.3,OK,2024-07-04
+168,Japan,"United Kingdom",9690.15,302.19,DDP,2025-02-23,"Food - Chocolate",Groceries,0.200,0.050,168,12112.69,1938.03,484.51,OK,2025-09-02
+79,China,Japan,9215.97,130.15,FOB,2025-02-22,"Clothing - Shoes",Apparel,0.100,0.040,79,10506.21,921.60,368.64,OK,2024-06-08
+165,France,Netherlands,3434.86,446.41,DDP,2025-02-19,"Electronics - Smartphone",Electronics,0.210,0.050,165,4327.92,721.32,171.74,OK,2023-11-14
+56,France,China,5683.11,836.25,FOB,2025-02-19,"Clothing - Jacket",Apparel,0.130,0.100,56,6990.22,738.80,568.31,OK,2024-07-29
+263,Netherlands,Germany,8093.75,442.58,EXW,2025-02-16,"Electronics - Laptop",Electronics,0.190,0.060,263,10117.18,1537.81,485.62,MISSING_VAT,2024-04-04
+187,China,France,997.79,744.30,CIF,2025-02-07,"Furniture - Chair",Home,0.200,0.070,187,1267.20,199.56,69.85,OK,2023-12-07
+150,Germany,India,1210.87,783.71,DDP,2025-02-05,"Clothing - Jacket",Apparel,0.180,0.120,150,1574.13,217.96,145.3,OK,2024-07-01
+214,France,India,4644.09,465.16,CIF,2025-02-01,"Electronics - Smartphone",Electronics,0.180,0.120,214,6037.32,835.94,557.29,OK,2025-03-20
+81,"United States",France,4775.66,754.26,DDP,2025-01-30,"Food - Chocolate",Groceries,0.200,0.070,81,6065.09,955.13,334.3,OK,2024-12-23
+20,Japan,"United States",6962.69,123.41,DDP,2025-01-27,"Electronics - Smartphone",Electronics,0.000,0.080,20,7519.71,0.00,557.02,OK,2024-02-29
+58,Netherlands,France,6835.87,360.14,EXW,2025-01-25,"Clothing - Shoes",Apparel,0.200,0.070,58,8681.55,1367.17,478.51,OK,2024-08-02
+140,Germany,"United States",5746.39,102.28,CIF,2025-01-23,"Electronics - Smartphone",Electronics,0.000,0.080,140,6206.10,0.00,459.71,OK,2024-11-29
+68,India,Germany,1164.75,667.60,DDP,2025-01-20,"Toys - Board Game",Toys,0.190,0.060,68,1455.93,221.30,69.88,OK,2024-09-28
+285,Germany,"United Kingdom",7793.93,137.74,CIF,2025-01-19,"Clothing - Jacket",Apparel,0.200,0.050,285,9742.42,1558.79,389.7,OK,2025-04-22
+259,Germany,"United Kingdom",9817.78,483.75,FOB,2025-01-19,"Food - Chocolate",Groceries,0.200,0.050,259,12272.23,1963.56,490.89,OK,2025-01-15
+67,France,India,2919.86,711.70,CIF,2025-01-17,"Clothing - Shoes",Apparel,0.180,0.120,67,3795.81,525.57,350.38,OK,2024-04-13
+154,France,"United Kingdom",4714.95,697.06,CIF,2025-01-15,"Electronics - Laptop",Electronics,0.200,0.050,154,5893.69,942.99,235.75,OK,2024-02-07
+223,Netherlands,France,1148.72,447.79,DDP,2025-01-10,"Food - Chocolate",Groceries,0.200,0.070,223,1458.87,229.74,80.41,OK,2024-10-25
+176,Netherlands,"United States",6079.73,729.33,EXW,2025-01-09,"Toys - Board Game",Toys,0.000,0.080,176,6566.11,0.00,486.38,OK,2025-09-05
+208,Japan,India,5113.79,447.62,DDP,2025-01-07,"Toys - Board Game",Toys,0.180,0.120,208,6647.92,920.48,613.65,OK,2025-07-02
+194,France,"United Kingdom",4585.66,889.21,EXW,2025-01-04,"Clothing - Shoes",Apparel,0.200,0.050,194,5732.07,917.13,229.28,OK,2025-03-23
+258,France,"United Kingdom",1767.39,358.78,DDP,2025-01-02,"Furniture - Table",Home,0.200,0.050,258,2209.24,353.48,88.37,OK,2025-09-22
+86,"United Kingdom",India,8638.95,767.94,EXW,2024-12-28,"Electronics - Smartphone",Electronics,0.180,0.120,86,11230.63,1555.01,1036.67,OK,2024-01-18
+177,France,"United Kingdom",6348.70,939.66,DDP,2024-12-28,"Food - Chocolate",Groceries,0.200,0.050,177,7935.88,1269.74,317.44,OK,2024-10-20
+100,France,Netherlands,8577.79,604.41,CIF,2024-12-27,"Furniture - Chair",Home,0.210,0.050,100,10808.02,1801.34,428.89,OK,2024-08-07
+170,Netherlands,China,632.23,541.21,EXW,2024-12-22,"Toys - Board Game",Toys,0.130,0.100,170,777.64,82.19,63.22,OK,2025-03-03
+155,China,Germany,3286.99,381.09,FOB,2024-12-20,"Electronics - Smartphone",Electronics,0.190,0.060,155,4108.74,624.53,197.22,OK,2025-04-07
+190,"United States",Netherlands,1077.84,484.19,EXW,2024-12-19,"Electronics - Smartphone",Electronics,0.210,0.050,190,1358.08,226.35,53.89,OK,2024-05-22
+138,"United States",Netherlands,7719.91,211.52,FOB,2024-12-18,"Food - Chocolate",Groceries,0.210,0.050,138,9727.09,1621.18,386,OK,2023-11-24
+94,Netherlands,France,7921.71,655.24,CIF,2024-12-17,"Electronics - Laptop",Electronics,0.200,0.070,94,10060.57,1584.34,554.52,OK,2025-07-10
+280,Netherlands,Japan,1652.94,208.97,FOB,2024-12-17,"Clothing - Shoes",Apparel,0.100,0.040,280,1884.35,165.29,66.12,OK,2025-07-13
+232,Japan,Netherlands,3666.94,586.91,FOB,2024-12-02,"Clothing - Jacket",Apparel,0.210,0.050,232,4620.35,770.06,183.35,OK,2023-12-09
+51,Japan,China,7552.96,163.89,DDP,2024-12-01,"Electronics - Laptop",Electronics,0.130,0.100,51,9290.14,981.88,755.3,OK,2025-07-13
+159,Japan,Netherlands,1201.69,945.78,DDP,2024-12-01,"Clothing - Jacket",Apparel,0.210,0.050,159,1514.12,252.35,60.08,OK,2025-02-18
+89,Netherlands,"United States",7379.72,842.10,FOB,2024-11-29,"Toys - Board Game",Toys,0.000,0.080,89,7970.10,0.00,590.38,OK,2025-02-17
+114,India,France,3126.75,593.69,DDP,2024-11-29,"Food - Chocolate",Groceries,0.200,0.070,114,3970.97,625.35,218.87,OK,2025-10-07
+92,Netherlands,"United Kingdom",3143.44,951.69,EXW,2024-11-26,"Toys - Board Game",Toys,0.200,0.050,92,3929.30,628.69,157.17,OK,2025-02-07
+15,India,Netherlands,4258.50,915.40,EXW,2024-11-25,"Food - Chocolate",Groceries,0.210,0.050,15,5365.70,894.28,212.92,OK,2023-12-17
+178,China,Netherlands,2564.06,450.25,FOB,2024-11-17,"Furniture - Table",Home,0.210,0.050,178,3230.71,538.45,128.2,OK,2025-04-05
+189,"United States",Japan,9481.45,52.93,DDP,2024-11-16,"Clothing - Shoes",Apparel,0.100,0.040,189,10808.85,948.14,379.26,OK,2025-01-24
+162,Japan,China,3107.56,570.27,CIF,2024-11-16,"Toys - Board Game",Toys,0.130,0.100,162,3822.30,403.98,310.76,MISSING_VAT,2025-05-08
+95,India,France,6402.69,246.16,EXW,2024-11-14,"Electronics - Smartphone",Electronics,0.200,0.070,95,8131.42,1280.54,448.19,OK,2023-11-30
+97,Germany,Japan,7889.02,172.13,DDP,2024-11-14,"Electronics - Laptop",Electronics,0.100,0.040,97,8993.48,788.90,315.56,OK,2025-06-04
+17,"United Kingdom",Japan,3938.97,997.35,FOB,2024-11-14,"Toys - Board Game",Toys,0.100,0.040,17,4490.43,393.90,157.56,OK,2024-07-06
+7,China,Netherlands,5594.17,973.38,EXW,2024-11-10,"Food - Chocolate",Groceries,0.210,0.050,7,7048.66,1174.78,279.71,OK,2024-06-05
+104,"United States",India,8344.48,596.55,DDP,2024-11-07,"Toys - Board Game",Toys,0.180,0.120,104,10847.83,1502.01,1001.34,OK,2024-11-15
+245,France,Germany,7749.61,280.06,FOB,2024-11-04,"Electronics - Laptop",Electronics,0.190,0.060,245,9687.02,1472.43,464.98,OK,2025-07-12
+50,China,Netherlands,9351.68,112.55,FOB,2024-11-03,"Furniture - Chair",Home,0.210,0.050,50,11783.11,1963.85,467.58,OK,2024-05-26
+135,Netherlands,India,3238.07,945.74,CIF,2024-10-31,"Food - Chocolate",Groceries,0.180,0.120,135,4209.49,582.85,388.57,OK,2025-02-23
+300,India,France,962.25,288.54,EXW,2024-10-30,"Furniture - Table",Home,0.200,0.070,300,1222.06,192.45,67.36,OK,2025-09-21
+246,"United Kingdom",China,8258.68,885.78,CIF,2024-10-29,"Clothing - Shoes",Apparel,0.130,0.100,246,10158.18,1073.63,825.87,OK,2024-10-01
+96,France,Japan,4917.82,263.68,DDP,2024-10-26,"Clothing - Shoes",Apparel,0.100,0.040,96,5606.31,491.78,196.71,OK,2023-12-12
+195,Netherlands,"United Kingdom",4287.94,732.32,DDP,2024-10-26,"Food - Chocolate",Groceries,0.200,0.050,195,5359.93,857.59,214.4,OK,2024-11-04
+163,"United States","United Kingdom",7869.54,237.82,DDP,2024-10-24,"Furniture - Chair",Home,0.200,0.050,163,9836.93,1573.91,393.48,OK,2025-03-20
+239,Germany,Netherlands,915.08,370.66,FOB,2024-10-20,"Food - Chocolate",Groceries,0.210,0.050,239,1153.00,192.17,45.75,OK,2024-01-15
+40,Germany,India,9860.43,272.55,EXW,2024-10-12,"Electronics - Smartphone",Electronics,0.180,0.120,40,12818.56,1774.88,1183.25,OK,2025-05-28
+287,Netherlands,Japan,8536.37,258.10,DDP,2024-10-11,"Furniture - Chair",Home,0.100,0.040,287,9731.46,853.64,341.45,OK,2024-10-14
+284,Germany,"United States",4774.76,683.31,DDP,2024-10-05,"Electronics - Laptop",Electronics,0.000,0.080,284,5156.74,0.00,381.98,OK,2024-03-24
+84,Germany,France,7092.52,709.35,CIF,2024-10-05,"Toys - Board Game",Toys,0.200,0.070,84,9007.50,1418.50,496.48,OK,2025-10-25
+131,Japan,China,2674.78,677.56,CIF,2024-10-04,"Electronics - Laptop",Electronics,0.130,0.100,131,3289.98,347.72,267.48,OK,2024-04-09
+205,France,"United States",1371.70,535.18,EXW,2024-10-02,"Electronics - Smartphone",Electronics,0.000,0.080,205,1481.44,0.00,109.74,OK,2025-10-18
+133,Japan,France,6530.45,496.81,CIF,2024-09-29,"Toys - Board Game",Toys,0.200,0.070,133,8293.67,1306.09,457.13,OK,2025-07-15
+88,India,"United States",3092.89,490.79,EXW,2024-09-20,"Clothing - Shoes",Apparel,0.000,0.080,88,3340.32,0.00,247.43,OK,2025-01-31
+283,"United Kingdom",Netherlands,5494.11,771.47,CIF,2024-09-19,"Food - Chocolate",Groceries,0.210,0.050,283,6922.58,1153.76,274.71,OK,2024-11-27
+225,"United States",China,4003.01,294.21,CIF,2024-09-16,"Electronics - Smartphone",Electronics,0.130,0.100,225,4923.70,520.39,400.3,OK,2025-03-30
+255,Germany,Netherlands,5473.10,367.00,CIF,2024-09-13,"Electronics - Laptop",Electronics,0.210,0.050,255,6896.11,1149.35,273.66,OK,2024-07-15
+228,France,"United Kingdom",9832.66,93.49,FOB,2024-09-13,"Furniture - Table",Home,0.200,0.050,228,12290.82,1966.53,491.63,OK,2025-06-21
+262,Japan,China,3218.05,863.52,CIF,2024-09-12,"Clothing - Shoes",Apparel,0.130,0.100,262,3958.20,418.35,321.8,OK,2024-05-04
+217,Netherlands,China,8522.60,250.88,EXW,2024-09-09,"Toys - Board Game",Toys,0.130,0.100,217,10482.80,1107.94,852.26,OK,2024-05-18
+119,"United States",China,4306.72,83.34,CIF,2024-09-08,"Electronics - Laptop",Electronics,0.130,0.100,119,5297.26,559.87,430.67,OK,2025-10-21
+171,Netherlands,"United States",6053.32,824.19,DDP,2024-09-07,"Furniture - Chair",Home,0.000,0.080,171,6537.59,0.00,484.27,OK,2025-01-16
+21,Netherlands,China,4630.27,459.19,DDP,2024-09-03,"Furniture - Chair",Home,0.130,0.100,21,5695.24,601.94,463.03,OK,2025-04-30
+265,Netherlands,"United Kingdom",8110.91,729.81,CIF,2024-09-02,"Furniture - Chair",Home,0.200,0.050,265,10138.64,1622.18,405.55,OK,2024-07-28
+6,France,China,1418.81,849.02,DDP,2024-09-02,"Toys - Board Game",Toys,0.130,0.100,6,1745.14,184.45,141.88,OK,2025-03-28
+204,Netherlands,China,8763.70,570.66,EXW,2024-09-01,"Clothing - Jacket",Apparel,0.130,0.100,204,10779.35,1139.28,876.37,OK,2024-02-01
+290,France,China,6685.73,769.29,EXW,2024-08-31,"Furniture - Chair",Home,0.130,0.100,290,8223.44,869.14,668.57,OK,2023-12-01
+83,India,Germany,3537.24,544.75,FOB,2024-08-30,"Furniture - Table",Home,0.190,0.060,83,4421.55,672.08,212.23,OK,2024-05-22
+198,Germany,Japan,6071.42,565.97,DDP,2024-08-28,"Electronics - Smartphone",Electronics,0.100,0.040,198,6921.42,607.14,242.86,OK,2025-10-11
+220,Netherlands,"United States",2744.55,154.98,FOB,2024-08-28,"Clothing - Jacket",Apparel,0.000,0.080,220,2964.11,0.00,219.56,OK,2025-09-08
+249,Germany,France,3225.35,831.46,FOB,2024-08-25,"Electronics - Smartphone",Electronics,0.200,0.070,249,4096.19,645.07,225.77,OK,2025-07-04
+127,"United Kingdom",China,6652.53,909.33,FOB,2024-08-20,"Clothing - Shoes",Apparel,0.130,0.100,127,8182.61,864.83,665.25,OK,2024-09-27
+33,India,"United Kingdom",8171.22,198.51,CIF,2024-08-19,"Food - Chocolate",Groceries,0.200,0.050,33,10214.02,1634.24,408.56,OK,2024-08-19
+80,"United States",Netherlands,9525.38,892.51,EXW,2024-08-17,"Furniture - Table",Home,0.210,0.050,80,12001.98,2000.33,476.27,OK,2024-06-20
+298,India,"United Kingdom",5233.52,519.58,EXW,2024-08-16,"Clothing - Jacket",Apparel,0.200,0.050,298,6541.90,1046.70,261.68,OK,2025-02-01
+145,"United States","United Kingdom",4742.20,489.50,DDP,2024-08-14,"Clothing - Jacket",Apparel,0.200,0.050,145,5927.75,948.44,237.11,OK,2024-08-25
+75,Japan,France,1899.86,55.75,EXW,2024-08-14,"Clothing - Shoes",Apparel,0.200,0.070,75,2412.82,379.97,132.99,OK,2024-07-18
+109,India,Netherlands,6636.08,495.91,CIF,2024-08-14,"Food - Chocolate",Groceries,0.210,0.050,109,8361.46,1393.58,331.8,OK,2024-07-10
+276,"United States",France,7092.82,998.64,FOB,2024-08-08,"Furniture - Chair",Home,0.200,0.070,276,9007.88,1418.56,496.5,OK,2025-08-06
+23,Germany,"United States",5624.10,780.84,CIF,2024-08-06,"Clothing - Jacket",Apparel,0.000,0.080,23,6074.03,0.00,449.93,OK,2024-07-15
+291,China,India,6598.12,309.07,FOB,2024-08-03,"Furniture - Chair",Home,0.180,0.120,291,8577.55,1187.66,791.77,OK,2024-03-23
+233,Netherlands,Germany,1725.04,711.75,CIF,2024-07-31,"Toys - Board Game",Toys,0.190,0.060,233,2156.30,327.76,103.5,OK,2024-12-14
+288,Germany,Netherlands,6337.07,102.49,FOB,2024-07-28,"Furniture - Chair",Home,0.210,0.050,288,7984.70,1330.78,316.85,OK,2025-02-12
+54,China,"United States",7825.63,640.74,DDP,2024-07-26,"Furniture - Table",Home,0.000,0.080,54,8451.68,0.00,626.05,OK,2024-01-11
+112,Netherlands,"United States",3073.71,258.89,CIF,2024-07-26,"Food - Chocolate",Groceries,0.000,0.080,112,3319.61,0.00,245.9,OK,2025-08-31
+224,Japan,"United States",3843.45,83.45,EXW,2024-07-22,"Electronics - Smartphone",Electronics,0.000,0.080,224,4150.93,0.00,307.48,OK,2024-05-16
+182,China,"United Kingdom",2813.90,134.66,FOB,2024-07-21,"Furniture - Table",Home,0.200,0.050,182,3517.38,562.78,140.7,OK,2025-06-10
+71,"United Kingdom",Netherlands,6934.52,903.78,DDP,2024-07-21,"Toys - Board Game",Toys,0.210,0.050,71,8737.50,1456.25,346.73,OK,2024-08-11
+46,India,Germany,1743.34,649.05,EXW,2024-07-17,"Toys - Board Game",Toys,0.190,0.060,46,2179.17,331.23,104.6,OK,2025-07-30
+72,"United Kingdom",Japan,3386.81,218.08,DDP,2024-07-16,"Electronics - Smartphone",Electronics,0.100,0.040,72,3860.96,338.68,135.47,OK,2025-02-01
+197,France,China,1385.69,105.60,DDP,2024-07-13,"Electronics - Laptop",Electronics,0.130,0.100,197,1704.40,180.14,138.57,OK,2025-02-25
+153,India,Netherlands,9975.55,749.30,EXW,2024-07-13,"Furniture - Chair",Home,0.210,0.050,153,12569.20,2094.87,498.78,OK,2023-11-12
+147,"United Kingdom",France,914.65,747.26,EXW,2024-07-13,"Toys - Board Game",Toys,0.200,0.070,147,1161.61,182.93,64.03,OK,2024-04-12
+85,"United Kingdom",India,5654.81,421.62,FOB,2024-07-12,"Furniture - Table",Home,0.180,0.120,85,7351.26,1017.87,678.58,OK,2024-12-23
+118,"United States",India,3736.71,965.84,DDP,2024-07-11,"Food - Chocolate",Groceries,0.180,0.120,118,4857.73,672.61,448.41,MISSING_VAT,2025-01-20
+105,India,"United Kingdom",3149.82,456.29,EXW,2024-07-10,"Electronics - Laptop",Electronics,0.200,0.050,105,3937.27,629.96,157.49,OK,2024-12-22
+35,France,China,7418.03,802.59,CIF,2024-07-09,"Toys - Board Game",Toys,0.130,0.100,35,9124.17,964.34,741.8,OK,2024-03-21
+256,"United Kingdom","United States",913.58,393.01,DDP,2024-07-08,"Food - Chocolate",Groceries,0.000,0.080,256,986.67,0.00,73.09,OK,2025-10-26
+142,"United Kingdom","United States",9812.32,251.29,FOB,2024-07-07,"Food - Chocolate",Groceries,0.000,0.080,142,10597.31,0.00,784.99,OK,2024-12-07
+113,India,Germany,7557.37,951.37,FOB,2024-07-05,"Electronics - Laptop",Electronics,0.190,0.060,113,9446.71,1435.90,453.44,OK,2025-09-10
+61,Japan,France,4134.15,48.34,EXW,2024-07-04,"Electronics - Laptop",Electronics,0.200,0.070,61,5250.37,826.83,289.39,OK,2024-12-07
+209,India,"United Kingdom",3779.14,119.78,EXW,2024-07-02,"Electronics - Laptop",Electronics,0.200,0.050,209,4723.93,755.83,188.96,OK,2025-05-09
+270,Germany,China,8562.36,681.31,EXW,2024-07-02,"Clothing - Jacket",Apparel,0.130,0.100,270,10531.71,1113.11,856.24,OK,2025-04-19
+213,"United Kingdom",Japan,5252.49,835.02,DDP,2024-07-02,"Clothing - Shoes",Apparel,0.100,0.040,213,5987.84,525.25,210.1,OK,2024-05-23
+278,France,"United Kingdom",6844.48,712.45,DDP,2024-06-29,"Furniture - Table",Home,0.200,0.050,278,8555.60,1368.90,342.22,OK,2025-07-03
+277,France,"United States",4794.41,899.69,EXW,2024-06-28,"Electronics - Laptop",Electronics,0.000,0.080,277,5177.96,0.00,383.55,OK,2025-03-29
+248,Netherlands,France,3527.51,108.09,DDP,2024-06-26,"Electronics - Smartphone",Electronics,0.200,0.070,248,4479.94,705.50,246.93,OK,2025-04-18
+28,India,Japan,7273.02,405.00,DDP,2024-06-20,"Clothing - Shoes",Apparel,0.100,0.040,28,8291.24,727.30,290.92,MISSING_VAT,2024-08-22
+129,"United States",China,7042.44,702.74,DDP,2024-06-20,"Food - Chocolate",Groceries,0.130,0.100,129,8662.20,915.52,704.24,OK,2024-04-23
+76,France,India,8918.30,579.91,EXW,2024-06-12,"Toys - Board Game",Toys,0.180,0.120,76,11593.79,1605.29,1070.2,OK,2025-06-01
+269,"United Kingdom",Germany,1212.89,641.14,DDP,2024-06-10,"Electronics - Smartphone",Electronics,0.190,0.060,269,1516.11,230.45,72.77,OK,2024-03-03
+268,Germany,Netherlands,3839.70,51.93,DDP,2024-06-10,"Food - Chocolate",Groceries,0.210,0.050,268,4838.02,806.34,191.98,OK,2023-11-23
+64,Japan,Germany,6955.42,845.22,DDP,2024-06-09,"Toys - Board Game",Toys,0.190,0.060,64,8694.28,1321.53,417.33,OK,2024-07-27
+242,"United States","United Kingdom",7892.18,507.88,EXW,2024-06-06,"Furniture - Chair",Home,0.200,0.050,242,9865.23,1578.44,394.61,OK,2025-02-06
+241,India,Germany,9087.76,202.08,EXW,2024-06-06,"Food - Chocolate",Groceries,0.190,0.060,241,11359.70,1726.67,545.27,OK,2023-12-08
+257,Japan,Netherlands,3892.39,76.88,FOB,2024-06-03,"Electronics - Smartphone",Electronics,0.210,0.050,257,4904.41,817.40,194.62,OK,2024-01-16
+180,China,India,2303.18,130.94,EXW,2024-05-24,"Furniture - Chair",Home,0.180,0.120,180,2994.13,414.57,276.38,OK,2025-03-04
+158,India,"United States",4865.92,670.17,EXW,2024-05-18,"Furniture - Chair",Home,0.000,0.080,158,5255.19,0.00,389.27,OK,2025-07-04
+82,"United States",Netherlands,3108.68,86.71,DDP,2024-05-09,"Clothing - Shoes",Apparel,0.210,0.050,82,3916.93,652.82,155.43,OK,2025-02-06
+36,India,France,5594.71,148.78,FOB,2024-05-02,"Clothing - Shoes",Apparel,0.200,0.070,36,7105.28,1118.94,391.63,OK,2023-10-31
+260,Germany,China,851.35,209.58,FOB,2024-05-02,"Food - Chocolate",Groceries,0.130,0.100,260,1047.17,110.68,85.14,OK,2024-12-17
+199,France,India,8799.27,941.72,EXW,2024-05-01,"Furniture - Table",Home,0.180,0.120,199,11439.05,1583.87,1055.91,OK,2025-06-04
+107,India,Germany,3733.22,881.52,DDP,2024-04-30,"Furniture - Chair",Home,0.190,0.060,107,4666.52,709.31,223.99,OK,2024-05-10
+151,Netherlands,Japan,6673.45,853.25,EXW,2024-04-29,"Toys - Board Game",Toys,0.100,0.040,151,7607.73,667.34,266.94,OK,2024-06-18
+222,"United States",India,6970.77,883.23,DDP,2024-04-25,"Food - Chocolate",Groceries,0.180,0.120,222,9062.00,1254.74,836.49,OK,2025-09-15
+130,"United States",India,6181.35,890.53,DDP,2024-04-22,"Electronics - Laptop",Electronics,0.180,0.120,130,8035.75,1112.64,741.76,OK,2025-06-04
+11,Netherlands,France,3875.07,673.47,CIF,2024-04-17,"Furniture - Table",Home,0.200,0.070,11,4921.33,775.01,271.25,OK,2024-12-11
+128,France,China,8029.97,599.09,DDP,2024-04-14,"Clothing - Jacket",Apparel,0.130,0.100,128,9876.87,1043.90,803,OK,2024-09-07
+136,"United States",China,2897.79,124.76,EXW,2024-04-14,"Furniture - Table",Home,0.130,0.100,136,3564.28,376.71,289.78,OK,2025-07-12
+44,India,"United States",9445.16,573.98,CIF,2024-04-12,"Electronics - Laptop",Electronics,0.000,0.080,44,10200.77,0.00,755.61,OK,2024-06-20
+273,Netherlands,India,5952.26,534.17,EXW,2024-04-12,"Electronics - Laptop",Electronics,0.180,0.120,273,7737.94,1071.41,714.27,OK,2024-02-25
+4,India,"United States",8189.59,16.43,FOB,2024-04-09,"Furniture - Chair",Home,0.000,0.080,4,8844.76,0.00,655.17,OK,2024-03-29
+49,France,"United States",3207.38,443.80,DDP,2024-04-09,"Furniture - Table",Home,0.000,0.080,49,3463.97,0.00,256.59,OK,2025-05-08
+32,Japan,Netherlands,2535.25,140.99,EXW,2024-04-07,"Food - Chocolate",Groceries,0.210,0.050,32,3194.41,532.40,126.76,OK,2024-02-11
+219,France,Japan,5540.75,201.96,DDP,2024-03-31,"Electronics - Laptop",Electronics,0.100,0.040,219,6316.46,554.08,221.63,OK,2024-12-02
+26,"United States","United Kingdom",9790.85,537.38,FOB,2024-03-28,"Electronics - Laptop",Electronics,0.200,0.050,26,12238.56,1958.17,489.54,OK,2025-05-14
+48,France,Japan,5305.90,141.13,DDP,2024-03-27,"Clothing - Shoes",Apparel,0.100,0.040,48,6048.73,530.59,212.24,OK,2023-12-31
+16,Germany,"United States",2842.96,565.75,DDP,2024-03-25,"Clothing - Jacket",Apparel,0.000,0.080,16,3070.40,0.00,227.44,OK,2025-05-18
+192,France,Germany,1123.98,282.27,DDP,2024-03-25,"Clothing - Jacket",Apparel,0.190,0.060,192,1404.98,213.56,67.44,OK,2024-06-10
+237,Germany,France,3310.02,790.24,CIF,2024-03-23,"Electronics - Laptop",Electronics,0.200,0.070,237,4203.72,662.00,231.7,OK,2025-07-05
+41,Japan,India,1970.57,303.74,CIF,2024-03-23,"Food - Chocolate",Groceries,0.180,0.120,41,2561.74,354.70,236.47,OK,2025-07-16
+5,"United Kingdom",Germany,1977.06,957.64,DDP,2024-03-22,"Furniture - Chair",Home,0.190,0.060,5,2471.32,375.64,118.62,OK,2024-06-29
+144,Netherlands,"United Kingdom",8295.22,290.01,DDP,2024-03-21,"Furniture - Chair",Home,0.200,0.050,144,10369.02,1659.04,414.76,OK,2024-02-12
+267,Netherlands,"United States",3411.71,606.60,EXW,2024-03-18,"Furniture - Chair",Home,0.000,0.080,267,3684.65,0.00,272.94,OK,2024-02-11
+297,India,"United Kingdom",8228.04,934.41,DDP,2024-03-15,"Clothing - Jacket",Apparel,0.200,0.050,297,10285.05,1645.61,411.4,OK,2024-06-10
+13,Netherlands,"United Kingdom",2675.96,41.78,DDP,2024-03-14,"Electronics - Smartphone",Electronics,0.200,0.050,13,3344.95,535.19,133.8,OK,2024-04-11
+230,Netherlands,Germany,4180.46,776.72,CIF,2024-03-08,"Furniture - Chair",Home,0.190,0.060,230,5225.58,794.29,250.83,OK,2025-01-07
+235,France,Netherlands,5330.64,28.05,DDP,2024-03-08,"Toys - Board Game",Toys,0.210,0.050,235,6716.60,1119.43,266.53,OK,2024-09-22
+196,"United Kingdom",Germany,4055.86,161.11,EXW,2024-03-06,"Furniture - Chair",Home,0.190,0.060,196,5069.82,770.61,243.35,OK,2024-08-21
+240,"United States",Japan,7647.72,785.96,FOB,2024-03-06,"Furniture - Chair",Home,0.100,0.040,240,8718.40,764.77,305.91,OK,2024-02-18
+59,Germany,France,9773.96,812.66,EXW,2024-03-05,"Clothing - Jacket",Apparel,0.200,0.070,59,12412.93,1954.79,684.18,OK,2024-02-14
+19,"United Kingdom",Japan,4155.29,599.93,EXW,2024-02-29,"Electronics - Laptop",Electronics,0.100,0.040,19,4737.03,415.53,166.21,OK,2024-07-03
+12,Germany,Japan,2052.32,385.66,FOB,2024-02-27,"Clothing - Shoes",Apparel,0.100,0.040,12,2339.64,205.23,82.09,OK,2024-08-10
+296,Germany,China,3257.01,390.31,EXW,2024-02-26,"Electronics - Smartphone",Electronics,0.130,0.100,296,4006.12,423.41,325.7,OK,2025-07-20
+183,France,"United Kingdom",6070.64,814.92,FOB,2024-02-24,"Clothing - Shoes",Apparel,0.200,0.050,183,7588.30,1214.13,303.53,OK,2024-08-16
+188,France,India,7891.16,518.11,CIF,2024-02-23,"Food - Chocolate",Groceries,0.180,0.120,188,10258.51,1420.41,946.94,OK,2023-11-01
+211,India,Germany,7789.82,766.52,DDP,2024-02-19,"Clothing - Shoes",Apparel,0.190,0.060,211,9737.28,1480.07,467.39,OK,2024-08-25
+289,Germany,France,8504.04,567.98,CIF,2024-02-19,"Furniture - Table",Home,0.200,0.070,289,10800.13,1700.81,595.28,OK,2024-11-26
+74,France,Germany,1387.18,952.48,FOB,2024-02-18,"Furniture - Table",Home,0.190,0.060,74,1733.97,263.56,83.23,OK,2024-05-08
+55,Germany,Netherlands,5740.96,433.41,CIF,2024-02-15,"Food - Chocolate",Groceries,0.210,0.050,55,7233.61,1205.60,287.05,OK,2024-06-04
+30,China,Japan,6090.18,17.12,CIF,2024-02-12,"Clothing - Shoes",Apparel,0.100,0.040,30,6942.81,609.02,243.61,OK,2025-10-16
+252,France,China,4488.34,795.96,EXW,2024-02-12,"Clothing - Shoes",Apparel,0.130,0.100,252,5520.65,583.48,448.83,OK,2024-09-28
+25,India,China,8841.09,947.48,CIF,2024-02-11,"Clothing - Shoes",Apparel,0.130,0.100,25,10874.54,1149.34,884.11,OK,2025-07-07
+279,Japan,"United Kingdom",7262.19,928.05,FOB,2024-02-10,"Clothing - Jacket",Apparel,0.200,0.050,279,9077.74,1452.44,363.11,OK,2025-06-08
+63,India,China,4285.43,285.82,CIF,2024-02-10,"Clothing - Shoes",Apparel,0.130,0.100,63,5271.08,557.11,428.54,OK,2025-05-02
+45,France,India,9379.71,212.22,DDP,2024-02-10,"Furniture - Table",Home,0.180,0.120,45,12193.63,1688.35,1125.57,OK,2024-08-10
+87,"United States",China,3336.82,396.09,EXW,2024-02-03,"Furniture - Table",Home,0.130,0.100,87,4104.29,433.79,333.68,OK,2024-09-14
+173,India,Netherlands,6536.34,469.62,DDP,2024-01-28,"Electronics - Laptop",Electronics,0.210,0.050,173,8235.79,1372.63,326.82,OK,2025-02-08
+57,"United Kingdom",France,3428.45,899.99,CIF,2024-01-22,"Electronics - Smartphone",Electronics,0.200,0.070,57,4354.13,685.69,239.99,OK,2025-03-07
+148,"United Kingdom",Netherlands,5205.62,46.65,DDP,2024-01-19,"Clothing - Jacket",Apparel,0.210,0.050,148,6559.08,1093.18,260.28,OK,2025-10-22
+281,India,"United Kingdom",749.70,558.48,DDP,2024-01-15,"Food - Chocolate",Groceries,0.200,0.050,281,937.12,149.94,37.48,OK,2025-02-19
+152,Netherlands,"United States",8787.64,45.54,CIF,2024-01-06,"Food - Chocolate",Groceries,0.000,0.080,152,9490.65,0.00,703.01,OK,2025-04-16
+175,France,China,8928.96,144.31,EXW,2024-01-05,"Clothing - Shoes",Apparel,0.130,0.100,175,10982.62,1160.76,892.9,OK,2025-07-04
+18,"United States",China,8680.48,161.31,FOB,2024-01-04,"Electronics - Smartphone",Electronics,0.130,0.100,18,10676.99,1128.46,868.05,OK,2025-10-07
+99,"United Kingdom",Netherlands,1221.97,693.71,FOB,2023-12-26,"Clothing - Shoes",Apparel,0.210,0.050,99,1539.68,256.61,61.1,OK,2025-04-13
+146,"United Kingdom",India,8761.22,980.97,FOB,2023-12-26,"Furniture - Table",Home,0.180,0.120,146,11389.59,1577.02,1051.35,OK,2025-01-07
+53,"United States",Germany,1376.84,429.34,DDP,2023-12-13,"Electronics - Smartphone",Electronics,0.190,0.060,53,1721.05,261.60,82.61,OK,2024-02-29
+251,Germany,Japan,1556.28,295.22,DDP,2023-12-12,"Toys - Board Game",Toys,0.100,0.040,251,1774.16,155.63,62.25,OK,2024-02-27
+70,"United Kingdom",Germany,7123.48,558.87,FOB,2023-12-10,"Toys - Board Game",Toys,0.190,0.060,70,8904.35,1353.46,427.41,OK,2025-07-02
+93,Japan,"United Kingdom",4967.91,751.53,CIF,2023-12-05,"Electronics - Laptop",Electronics,0.200,0.050,93,6209.89,993.58,248.4,OK,2025-01-31
+202,France,"United Kingdom",5953.95,809.15,CIF,2023-12-04,"Furniture - Chair",Home,0.200,0.050,202,7442.44,1190.79,297.7,OK,2024-11-11
+174,"United Kingdom",China,930.79,46.84,EXW,2023-11-29,"Clothing - Jacket",Apparel,0.130,0.100,174,1144.87,121.00,93.08,OK,2023-12-06
+184,Netherlands,"United Kingdom",7992.12,600.02,DDP,2023-11-25,"Clothing - Jacket",Apparel,0.200,0.050,184,9990.15,1598.42,399.61,OK,2025-09-18
+62,India,France,3821.76,822.33,FOB,2023-11-23,"Food - Chocolate",Groceries,0.200,0.070,62,4853.63,764.35,267.52,OK,2023-12-01
+134,"United States",Germany,3666.43,673.43,FOB,2023-11-06,"Toys - Board Game",Toys,0.190,0.060,134,4583.04,696.62,219.99,OK,2024-07-17
+274,Netherlands,"United States",2871.31,122.31,FOB,2023-11-04,"Furniture - Chair",Home,0.000,0.080,274,3101.01,0.00,229.7,OK,2024-09-19
+98,France,Japan,9324.43,580.04,EXW,2023-11-03,"Electronics - Smartphone",Electronics,0.100,0.040,98,10629.85,932.44,372.98,OK,2025-06-03
+193,"United Kingdom",Japan,4810.30,609.37,CIF,2023-11-03,"Furniture - Chair",Home,0.100,0.040,193,5483.74,481.03,192.41,OK,2025-02-13

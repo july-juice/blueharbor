@@ -1,0 +1,9 @@
+country,vat_rate,customs_duty_rate
+China,0.130,0.100
+France,0.200,0.070
+Germany,0.190,0.060
+India,0.180,0.120
+Japan,0.100,0.040
+Netherlands,0.210,0.050
+"United Kingdom",0.200,0.050
+"United States",0.000,0.080

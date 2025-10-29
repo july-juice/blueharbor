@@ -1,0 +1,9 @@
+product_id,product_name,product_category
+1,"Electronics - Smartphone",Electronics
+2,"Electronics - Laptop",Electronics
+3,"Clothing - Jacket",Apparel
+4,"Clothing - Shoes",Apparel
+5,"Furniture - Chair",Home
+6,"Furniture - Table",Home
+7,"Toys - Board Game",Toys
+8,"Food - Chocolate",Groceries
