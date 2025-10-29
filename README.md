@@ -1,4 +1,4 @@
-***BlueHarbor - Data Driven Trade Simulation***
+#BlueHarbor - Data Driven Trade Simulation#
 
 **Overview**
 This is a data-driven international trade simulation project surrounding a mock shipping company, 'BlueHarbor Logistics', focused on taxes, specifically VAT and Customs - VAT being an umbrella term for 'sales tax' in this project.
@@ -57,5 +57,6 @@ An interactive notebook was then created using ipywidgets to filter the destinat
 - Anomaly detection to find suspicious shipments
 
 ***Author***
+
 Created by Jeffrey Acquah.
 
