@@ -20,7 +20,7 @@ Within the schema, there are four unique tables.
 3. Tax rates - VAT and customs duty rates specific to each country
 4. Invoices - The taxed invoice values per shipment
 
-##Project Steps
+## Project Steps
 1. Database Configuration
 Created a dedicated schema in MySQL called blueharbor
 Defined Product, Shipment, Tax rates and Invoices tables with foreign key relationships.
@@ -42,7 +42,7 @@ Created a clean matplotlib and seaborn dashboard with 4 graphs:
 - VAT efficiency (VAT/Declared Value ratio)
 An interactive notebook was then created using ipywidgets to filter the destination country and product category.
 
-##Insights
+## Insights
 - France to China and France to the UK were the most popular transport routes. The latter route had the highest combined VAT amount - just under £12,000.
 
 - Japan (4), as a destination country, had the most 'MISSING_VAT' tax flags, with France (3) having the most as the origin country.
@@ -51,7 +51,7 @@ An interactive notebook was then created using ipywidgets to filter the destinat
 
 - There is an interesting trend revealed when analysing the incoterms. Two are used in relation to Sea and Inland Waterway Transport - CIF and FOB. The other two, DDP and EXW are suitable for any mode of transportation. When ranking both average customs cost and average VAT cost, the pattern is, in descending order, FOB, CIF, EXW and finally DDP. DDP has, counterintuitively, the lowest VAT/Customs values. An explanation for this could be that BlueHarbor's DDP shipments are handled through pre-cleared routes, meaning that less tax is paid despite full seller liability.
 
-##Further work
+## Further work
 - Extend the schema to include carriers, ports and tarriff codes.
 - Utilise Plotly Dash instead of matplotlib for further interactivity
 - Anomaly detection to find suspicious shipments
